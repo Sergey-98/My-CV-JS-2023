@@ -1,6 +1,6 @@
 # Yatsenko Sergey
 
-![My photo](/assets/img/img.JPG "Sergey")
+![My photo](/assets/img/img.jpg "Sergey")
 
 ## My contact info
 
